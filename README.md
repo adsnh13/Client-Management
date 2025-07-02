@@ -25,26 +25,4 @@
 ![App Screenshot](https://github.com/OnkarSagare27/employee-management-mysql/blob/master/screenshots/update_an_employee_2.png)
 ![App Screenshot](https://github.com/OnkarSagare27/employee-management-mysql/blob/master/screenshots/view_all_employee.png)
 
-## Setup
-- Fork this repo
-- Clone repo
-```sh
-git clone https://github.com/OnkarSagare27/employee-management-mysql.git
-```
-- Configure stuff in ``config.json``
-```json
-{
-    "pass": "DATABASE PASSWORD",
-    "user": "root",
-    "host": "localhost",
-    "database": "employees"
-}
-```
-- Install requirements
-```sh
-pip install -r requirements.txt
-```
-- Run ``main.py``
-```sh
-python main.py
-```
+
